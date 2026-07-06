@@ -23,3 +23,11 @@ SunCart was built to give users a clean, engaging way to discover and shop for s
 - 📱 **Fully Responsive Design** across mobile, tablet, and desktop
 - 🔑 **Environment Variables** used to secure configuration keys
 - 🎬 **Animation Library Integration** for enhanced UI/UX
+
+## 📦 NPM Packages Used
+
+- `better-auth` – authentication and session management
+- `react-toastify` – toast notifications for form feedback
+- `motion-framer` – UI animations _(choose the one you implemented)_
+- `daisyui` – prebuilt Tailwind UI components
+- `react-icons` – icons
