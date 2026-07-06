@@ -5,3 +5,21 @@ A modern summer eCommerce platform where users can explore and purchase seasonal
 ## 🎯 Purpose
 
 SunCart was built to give users a clean, engaging way to discover and shop for summer essentials. The project demonstrates a full authentication flow, protected routing, and a responsive, theme-consistent UI built with modern web tools.
+
+## ✨ Key Features
+
+- 🔝 **Persistent Navbar & Footer** with route-based rendering (Next.js App Router)
+- 🌅 **Hero Section** with a summer sale banner/slider highlighting hot deals
+- 🔥 **Popular Products Section** showcasing featured items with image, name, rating, price, and a "View Details" button
+- ☀️ **Summer Care Tips** section with hydration and skincare advice
+- 🏷️ **Top Brands** showcase with static brand cards
+- 🔒 **Protected Product Details Page** — accessible only to logged-in users, with redirect-back-after-login behavior
+- 🔐 **Authentication with BetterAuth**
+  - Email/Password Login with toast/error handling
+  - Email/Password Registration (Name, Email, Photo URL, Password) with toast/error handling
+  - Google Social Login on both Login and Register pages
+- 👤 **My Profile Page** displaying the logged-in user's name, photo, and email
+- ✏️ **Update Information Feature** — update profile name and photo from a dedicated route
+- 📱 **Fully Responsive Design** across mobile, tablet, and desktop
+- 🔑 **Environment Variables** used to secure configuration keys
+- 🎬 **Animation Library Integration** for enhanced UI/UX
