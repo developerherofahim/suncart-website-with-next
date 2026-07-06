@@ -38,3 +38,8 @@ SunCart was built to give users a clean, engaging way to discover and shop for s
 - **Product Details Page:** Protected route showing full product information
 - **Login / Register Pages:** Forms with validation, error toasts, and Google login
 - **My Profile Page:** Displays and allows updating of user profile info
+
+## 🌐 Live Links
+
+- **Live Site:** https://suncart-website-with-next.vercel.app/
+- **GitHub Repository:** https://github.com/developerherofahim/suncart-website-with-next
