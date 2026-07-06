@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@theme {
+  --color-foreground: hsl(222.2 84% 4.9%);
+  --color-muted: #fff0d7;
+  --color-muted-foreground: #8b6b4f;
+  --foreground: #1c0d00;
+  
+}

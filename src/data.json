@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "oldPrice": 20,
+    "discount": 25,
+    "rating": 4.7,
+    "reviews": 186,
+    "stock": 10,
+    "availability": "In Stock",
+    "sku": "SS-UV-001",
+    "category": "Accessories",
+    "description": "Stylish UV protection sunglasses perfect for summer outings with UV400 polarized lenses.",
+    "images": "https://i.ibb.co.com/VWtzLTZT/Sunglasses.jpg",
+    "colors": ["Black", "Brown", "Blue"],
+    "sizes": [],
+    "features": [
+      "UV400 Protection",
+      "Polarized Lenses",
+      "Scratch Resistant",
+      "Lightweight Frame",
+      "Unisex Design"
+    ],
+    "specifications": {
+      "Frame Material": "Polycarbonate",
+      "Lens Material": "Polarized TAC",
+      "Weight": "28g",
+      "Warranty": "6 Months"
+    },
+    "shipping": {
+      "delivery": "2-5 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "7 Days Easy Return"
+    },
+    "isTrending": true
+  },
+  {
+    "id": 2,
+    "name": "Beach Straw Hat",
+    "brand": "SummerWear",
+    "price": 12,
+    "oldPrice": 16,
+    "discount": 25,
+    "rating": 4.5,
+    "reviews": 142,
+    "stock": 20,
+    "availability": "In Stock",
+    "sku": "SW-HAT-002",
+    "category": "Accessories",
+    "description": "Breathable straw hat offering excellent protection from direct sunlight.",
+    "images": "https://i.ibb.co.com/MkWLcDwv/straw-hat.jpg",
+    "colors": ["Beige", "Brown"],
+    "sizes": ["One Size"],
+    "features": [
+      "Wide Brim",
+      "Lightweight",
+      "Foldable",
+      "Breathable Material"
+    ],
+    "specifications": {
+      "Material": "Natural Straw",
+      "Weight": "180g",
+      "Gender": "Unisex"
+    },
+    "shipping": {
+      "delivery": "3-5 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "7 Days Return"
+    },
+    "isTrending": false
+  },
+  {
+    "id": 3,
+    "name": "Cooling Water Bottle",
+    "brand": "HydroCool",
+    "price": 18,
+    "oldPrice": 24,
+    "discount": 25,
+    "rating": 4.8,
+    "reviews": 254,
+    "stock": 15,
+    "availability": "In Stock",
+    "sku": "HC-BOT-003",
+    "category": "Essentials",
+    "description": "Double-wall insulated water bottle that keeps beverages cold for 24 hours.",
+    "images": "https://i.ibb.co.com/8n256MnM/Water-Bottle.jpg",
+    "colors": ["Black", "Blue", "Silver"],
+    "sizes": ["750ml"],
+    "features": [
+      "24-Hour Cooling",
+      "Leak Proof",
+      "BPA Free",
+      "Stainless Steel"
+    ],
+    "specifications": {
+      "Capacity": "750ml",
+      "Material": "304 Stainless Steel",
+      "Weight": "420g"
+    },
+    "shipping": {
+      "delivery": "2-4 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "10 Days Return"
+    },
+    "isTrending": true
+  },
+  {
+    "id": 4,
+    "name": "Summer Floral Shirt",
+    "brand": "SunnyStyle",
+    "price": 25,
+    "oldPrice": 35,
+    "discount": 29,
+    "rating": 4.6,
+    "reviews": 178,
+    "stock": 12,
+    "availability": "In Stock",
+    "sku": "SS-SHIRT-004",
+    "category": "Clothing",
+    "description": "Premium breathable cotton floral shirt designed for hot summer days.",
+    "images": "https://i.ibb.co.com/V0XWjh5c/floral-shirt.jpg",
+    "colors": ["White", "Blue", "Green"],
+    "sizes": ["S", "M", "L", "XL"],
+    "features": [
+      "100% Cotton",
+      "Breathable",
+      "Machine Washable",
+      "Relaxed Fit"
+    ],
+    "specifications": {
+      "Material": "Cotton",
+      "Sleeve": "Half Sleeve",
+      "Fit": "Regular"
+    },
+    "shipping": {
+      "delivery": "2-5 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "15 Days Return"
+    },
+    "isTrending": true
+  },
+  {
+    "id": 5,
+    "name": "SPF 50 Sunscreen",
+    "brand": "SkinGuard",
+    "price": 14,
+    "oldPrice": 18,
+    "discount": 22,
+    "rating": 4.9,
+    "reviews": 342,
+    "stock": 30,
+    "availability": "In Stock",
+    "sku": "SG-SPF-005",
+    "category": "Skincare",
+    "description": "Broad-spectrum SPF 50 sunscreen with water-resistant protection.",
+    "images": "https://i.ibb.co.com/Jwkt7XrM/sunscreen.jpg",
+    "colors": [],
+    "sizes": ["100ml"],
+    "features": [
+      "SPF 50+",
+      "Water Resistant",
+      "Dermatologist Tested",
+      "Suitable for All Skin Types"
+    ],
+    "specifications": {
+      "Volume": "100ml",
+      "Skin Type": "All",
+      "Protection": "UVA & UVB"
+    },
+    "shipping": {
+      "delivery": "2-3 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "7 Days Return"
+    },
+    "isTrending": false
+  },
+  {
+    "id": 6,
+    "name": "Beach Sandals",
+    "brand": "OceanWalk",
+    "price": 20,
+    "oldPrice": 28,
+    "discount": 29,
+    "rating": 4.4,
+    "reviews": 113,
+    "stock": 18,
+    "availability": "In Stock",
+    "sku": "OW-SDL-006",
+    "category": "Footwear",
+    "description": "Comfortable anti-slip beach sandals for outdoor adventures.",
+    "images": "https://i.ibb.co.com/99c4HQZC/sandals.jpg",
+    "colors": ["Black", "Gray"],
+    "sizes": ["39", "40", "41", "42", "43"],
+    "features": [
+      "Anti Slip",
+      "Water Resistant",
+      "Comfort Sole",
+      "Lightweight"
+    ],
+    "specifications": {
+      "Material": "Rubber",
+      "Gender": "Unisex"
+    },
+    "shipping": {
+      "delivery": "3-5 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "15 Days Return"
+    },
+    "isTrending": false
+  },
+  {
+    "id": 7,
+    "name": "Portable Mini Fan",
+    "brand": "CoolBreeze",
+    "price": 16,
+    "oldPrice": 22,
+    "discount": 27,
+    "rating": 4.7,
+    "reviews": 195,
+    "stock": 22,
+    "availability": "In Stock",
+    "sku": "CB-FAN-007",
+    "category": "Electronics",
+    "description": "Rechargeable mini fan with three-speed settings and USB charging.",
+    "images": "https://i.ibb.co.com/Cp7DQfhB/mini-fan.jpg",
+    "colors": ["White", "Pink", "Blue"],
+    "sizes": [],
+    "features": [
+      "USB Rechargeable",
+      "3 Speed Modes",
+      "Portable",
+      "Long Battery Life"
+    ],
+    "specifications": {
+      "Battery": "2000mAh",
+      "Charging": "USB-C",
+      "Weight": "210g"
+    },
+    "shipping": {
+      "delivery": "2-4 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "7 Days Return"
+    },
+    "isTrending": false
+  },
+  {
+    "id": 8,
+    "name": "Beach Tote Bag",
+    "brand": "CarryWave",
+    "price": 19,
+    "oldPrice": 26,
+    "discount": 27,
+    "rating": 4.5,
+    "reviews": 167,
+    "stock": 14,
+    "availability": "In Stock",
+    "sku": "CW-BAG-008",
+    "category": "Accessories",
+    "description": "Large waterproof beach tote bag with multiple storage compartments.",
+    "images": "https://i.ibb.co.com/qMCWH3M2/tote-bag.jpg",
+    "colors": ["Beige", "Navy", "Pink"],
+    "sizes": ["Large"],
+    "features": [
+      "Waterproof",
+      "Large Capacity",
+      "Multiple Pockets",
+      "Durable Fabric"
+    ],
+    "specifications": {
+      "Material": "Canvas",
+      "Dimensions": "45 × 35 × 18 cm",
+      "Weight": "480g"
+    },
+    "shipping": {
+      "delivery": "3-5 Business Days",
+      "shippingCost": "Free",
+      "returnPolicy": "10 Days Return"
+    },
+    "isTrending": false
+  }
+]
