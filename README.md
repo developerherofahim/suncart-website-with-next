@@ -43,3 +43,8 @@ SunCart was built to give users a clean, engaging way to discover and shop for s
 
 - **Live Site:** https://suncart-website-with-next.vercel.app/
 - **GitHub Repository:** https://github.com/developerherofahim/suncart-website-with-next
+
+## 🙋 Author
+
+- **Name:** Md Fahim Miah
+- **GitHub:** _[your-username](https://github.com/your-username)_
