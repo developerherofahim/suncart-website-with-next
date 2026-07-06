@@ -31,3 +31,10 @@ SunCart was built to give users a clean, engaging way to discover and shop for s
 - `motion-framer` – UI animations _(choose the one you implemented)_
 - `daisyui` – prebuilt Tailwind UI components
 - `react-icons` – icons
+
+## 📁 Project Structure Highlights
+
+- **Home Page:** Hero banner, popular products, summer care tips, top brands
+- **Product Details Page:** Protected route showing full product information
+- **Login / Register Pages:** Forms with validation, error toasts, and Google login
+- **My Profile Page:** Displays and allows updating of user profile info
