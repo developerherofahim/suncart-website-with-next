@@ -47,4 +47,4 @@ SunCart was built to give users a clean, engaging way to discover and shop for s
 ## 🙋 Author
 
 - **Name:** Md Fahim Miah
-- **GitHub:** _[your-username](https://github.com/your-username)_
+- **GitHub:** https://github.com/developerherofahim
