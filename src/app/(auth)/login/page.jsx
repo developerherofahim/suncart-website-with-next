@@ -5,6 +5,7 @@ import { poppins } from "@/lib/font";
 import Image from "next/image";
 import Link from "next/link";
 import { useForm } from "react-hook-form";
+import { toast } from "react-toastify";
 
 const LoginPage = () => {
 
@@ -24,6 +25,13 @@ const LoginPage = () => {
       rememberMe: true,
       callbackURL: "/",
     });
+
+    if(error){
+      toast.error(error.message)
+    }
+    else{
+      toast.success('Log In Successfully Done')
+    }
   }
 
   const handleGoogleLogIN = async () => {
@@ -48,7 +56,7 @@ const LoginPage = () => {
         <div className="absolute inset-0 bg-linear-to-r from-[#F97316]/70 via-black/40 to-transparent" />
 
         {/* Text Content */}
-        <div className="absolute bottom-8 left-8 z-10 max-w-md text-white px-4 sm:px-6 lg:px-8">
+        <div className="absolute bottom-8 left-8 z-10 max-w-md text-white ">
           <h1 className="mb-4 text-4xl lg:text-5xl font-bold leading-tight">
             Summer Essentials
             <br />

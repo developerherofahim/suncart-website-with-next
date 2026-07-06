@@ -2,6 +2,7 @@
 
 import { authClient } from '@/lib/auth-client';
 import { poppins } from '@/lib/font';
+import Link from 'next/link';
 import React from 'react';
 import { CiMail } from 'react-icons/ci';
 import { FaCamera, FaRegStar } from 'react-icons/fa';
@@ -83,7 +84,9 @@ const MyProfile = () => {
                             </div>
                         </div>
                     </div>
-                    <button className="btn w-full bg-[#F97316] btn-neutral p-4 shadow-none border-none rounded-lg text-lg font-bold text-white">Update Information</button>
+                    <Link href="/update-page">
+                       <button className="btn w-full bg-[#F97316] btn-neutral p-4 shadow-none border-none rounded-lg text-lg font-bold text-white">Update Information</button>
+                    </Link>
                 </div>
 
             </div>
