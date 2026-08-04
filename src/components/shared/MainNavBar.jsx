@@ -61,7 +61,7 @@ export default function MainNavbar({ poppins }) {
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className={`text-lg font-semibold px-4 py-2 rounded-lg transition ${isActive
+                    className={`text-sm font-semibold px-4 py-2 rounded-lg transition ${isActive
                         ? "bg-[#F77013] text-white"
                         : "text-[#F77013] hover:text-orange-700"
                       }`}
@@ -78,7 +78,7 @@ export default function MainNavbar({ poppins }) {
             {
               user ? (<Link
                 href="/my-profile"
-                className="text-lg font-semibold px-5 py-2 flex gap-2 justify-center items-center rounded-full bg-orange-100  text-[#F77013]"
+                className="text-sm font-semibold px-5 py-2 flex gap-2 justify-center items-center rounded-full bg-orange-100  text-[#F77013]"
               >
                 <span><FaUserCircle /></span>
                 <span>{user.name}</span>
@@ -99,7 +99,7 @@ export default function MainNavbar({ poppins }) {
                 Sign Out
               </Link>) : (<Link
                 href="/register"
-                className="bg-[#F77013] text-white px-5 py-2 rounded-lg text-lg font-semibold hover:bg-orange-600 transition"
+                className="bg-[#F77013] text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-orange-600 transition"
               >
                 Register
               </Link>)
