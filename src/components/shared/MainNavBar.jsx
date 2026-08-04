@@ -36,10 +36,10 @@ export default function MainNavbar({ poppins }) {
 
   return (
     <nav
-      className={`${poppins} sticky top-0 z-50 bg-base-100 shadow-sm`}
+      className={`${poppins} sticky top-0 z-50 border-b border-orange-100 bg-white/80 backdrop-blur-xl shadow-sm`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-15">
           {/* Logo */}
           <Link href="/">
             <div>
@@ -155,7 +155,7 @@ export default function MainNavbar({ poppins }) {
                     Sign Out
                   </Link>) : (<Link
                     href="/register"
-                    className="bg-[#F77013] text-white px-5 py-2 rounded-lg text-lg font-semibold hover:bg-orange-600 transition"
+                    className="bg-[#F77013] text-white px-5 py-2 rounded-lg text-sm font-semibold hover:bg-orange-600 transition"
                   >
                     Register
                   </Link>)
