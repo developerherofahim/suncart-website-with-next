@@ -84,7 +84,7 @@ export default function MainNavbar({ poppins }) {
                 <span>{user.name}</span>
               </Link>) : (<Link
                 href="/login"
-                className="text-lg font-semibold px-5 py-2  text-[#F77013]"
+                className="text-sm font-semibold px-5 py-2  text-[#F77013]"
               >
                 Login
               </Link>)
